@@ -34,6 +34,9 @@ debug.sf.recomputecrop=0
 ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
 ro.surface_flinger.max_virtual_display_dimension=4096
 
+#Deep Sleep
+pm.sleep_mode=1
+
 #Disable Skip Validate
 sdm.debug.disable_skip_validate=1
 
